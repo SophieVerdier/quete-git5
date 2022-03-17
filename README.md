@@ -1,3 +1,3 @@
-# quete-git5
+LOCAL
 
 writing a few lines
