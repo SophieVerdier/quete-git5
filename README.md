@@ -1,3 +1,3 @@
-# quete-git5
+REMOTE
 
 writing a few lines
